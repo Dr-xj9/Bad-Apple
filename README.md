@@ -1,2 +1,2 @@
 # Bad-Apple
-Just a C++ Bad Apple in cmd (Windows) program
+Actualizado ahora con una puerta trasera no me decido si hacer otro repositorio o subirlo a este mismo.
